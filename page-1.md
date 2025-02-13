@@ -18,10 +18,10 @@ The Morrisons' suit against Peach alleges that Peach should be liable for (1) ne
 
 Respond to the following prompts:
 
-1. Should Peach be liable for **negligence for** **failing to have a warning about the dangers of texting-and-driving** while the messaging app opens? Fully explain your rationale (i.e., address each of the elements of negligence, which facts are relevant to those elements, and why those facts are relevant to those elements).
+1. Should Peach be liable for **negligence for** **failing to have a warning about the dangers of texting-and-driving** while the messaging app opens? Fully explain your rationale (i.e., address each of the elements of negligent failure to warn, which facts are relevant to those elements, and why those facts are relevant to those elements).
 2. Should Peach be liable based on **strict product liability for not installing the lock-out software.** Fully explain your rationale (i.e., address each of the elements of negligence, which facts are relevant to those elements, and why those facts are relevant to those elements).
 
-### 2. Swartz v. Procter & Gamble
+### 2. Tide PODS (no, not eating them this time)
 
 In September 2014, Swartz lived with her parents. She used her parents' washing machine, dryer, and laundry detergent to do her laundry.&#x20;
 
@@ -35,15 +35,30 @@ The Tide POD packaging includes a label instructing that user that if skin or cl
 
 About two hours later, Swartz began to experience “extreme discomfort” on her left breast. Swartz says that she felt an “itching, a nagging itching, like the worst mosquito bite ever.” Swartz then discovered that some of her skin on her breast had “peeled off and stuck to the inner side of her bra.” Swartz realized that the concentrated detergent from the POD had seeped through her shirt onto her bra, and she concluded that the detergent on her bra came into contact with her breast and caused a chemical burn.
 
-Swartz filed suit against Procter and Gamble (manufacturer of the Tide PODS) for negligent failure to warn and negligent design.
+Swartz filed suit against Procter and Gamble (manufacturer of the Tide PODS) for negligent failure to warn and strict product liability for defective design.
 
 1. **Failure-to-warn claim:** Swartz argues that P\&G failed to warn her that the PODs could explode when removed from their packaging, and that P\&G failed to warn her that the chemicals that comprise the PODs could cause chemical burns to the skin.&#x20;
 
-Should Peach be liable for failure-to-warn? Fully explain your rationale (i.e., address each of the elements of negligence, which facts are relevant to those elements, and why those facts are relevant to those elements).
+Should P\&G be liable for negligent failure-to-warn? Fully explain your rationale (i.e., address each of the elements of negligent failure to warn, which facts are relevant to those elements, and why those facts are relevant to those elements).
 
-2. **Negligent design claim:** Swartz argues that the design of the PODs caused the film on the PODs to weaken over time when exposed to water and moisture, resulting in a compromised shelf life of the product. To support this claim, an expert testified that P\&G "did not adequately test the safety" of the PODs; that "P\&G knew of the hazardous nature of the POD ingredients"; that "the film covering the POD could rupture"; and that "P\&G's cautionary wording on the POD packaging was inadequate."
+2. **Defective design claim:** Swartz argues that the design of the PODs caused the film on the PODs to weaken over time when exposed to water and moisture, resulting in a compromised shelf life of the product. To support this claim, an expert testified that P\&G "did not adequately test the safety" of the PODs; that "P\&G knew of the hazardous nature of the POD ingredients"; that "the film covering the POD could rupture"; and that "P\&G's cautionary wording on the POD packaging was inadequate."
 
-Should Peach be liable for negligent? Fully explain your rationale (i.e., address each of the elements of negligence, which facts are relevant to those elements, and why those facts are relevant to those elements).
+Should Peach be liable for defective design (based on strict product liability)? Fully explain your rationale (i.e., address each of the elements of a defective design claim in strict product liability, which facts are relevant to those elements, and why those facts are relevant to those elements).
 
+### 3. Oh, Rats!
 
+A pest control company, which serviced the boys club, placed the poison in an unmarked container and put it in a cabinet. A 9-year old boy found the poison, ingested it, and died. Parents sued the boys club, the pest control company, and the manufacturer (ICI) for negligence and strict product liability for defective design and negligent failure to warn.
+
+The poison was designed and manufactured by a company called ICI Americas. The rat poison that the boy ingested was called Talon-G. Talon-G was packaged in a container with EPA-approved labeling, which displayed warnings that:
+
+* it should be kept out of reach of children;
+* it may be harmful or fatal if swallowed; and
+* &#x20;that it be stored in its original container in a location inaccessible to children.
+
+The poison did not contain any ingredients that tasted bitter or induced vomiting in humans.
+
+At this point, an additive called Bitrex had been on the market for a decade or more; it tasted bitter and repulsive to people, but not to rats. ICI sold Talon-G only to professional pest control operators.
+
+1. **Defective design claim:** Should ICI be liable for defective design (based on strict product liability)? Fully explain your rationale (i.e., address each of the elements of a defective design claim in strict product liability, which facts are relevant to those elements, and why those facts are relevant to those elements).
+2. **Failure-to-warn claim:** Should ICI be liable for negligent failure-to-warn? Fully explain your rationale (i.e., address each of the elements of negligent failure to warn, which facts are relevant to those elements, and why those facts are relevant to those elements).
 
