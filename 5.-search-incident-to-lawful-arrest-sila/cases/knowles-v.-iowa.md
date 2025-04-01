@@ -1,6 +1,6 @@
 # Knowles v. Iowa
 
-525 U.S. 113 (1998)
+[525 U.S. 113](https://scholar.google.com/scholar_case?case=8891619619366611143\&q=525+U.S.+113\&hl=en\&as_sdt=6,50) (1998)
 
 Supreme Court of the United States
 
