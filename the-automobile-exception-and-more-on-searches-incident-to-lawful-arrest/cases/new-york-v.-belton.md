@@ -62,11 +62,11 @@ _It is so ordered._
 
 \[[Footnote 1](https://supreme.justia.com/cases/federal/us/453/454/case.html#T1)]
 
-The state court cases are in similar disarray. _Compare, e.g., Hinkel v. Anchorage,_ 618 P.2d 1069 (Alaska 1980), _with Ulesky v. State,_ 379 So.2d 121 (Fla.App.1979).
+The state court cases are in similar disarray. _Compare, e.g., Hinkel v. Anchorage,_ 618 P.2d 1069 (Alaska 1980), _with Ulesky v. State,_ 379 So.2d 121 (Fla. App. 1979).
 
 \[[Footnote 2](https://supreme.justia.com/cases/federal/us/453/454/case.html#T2)]
 
-The validity of the custodial arrest of Belton has not been questioned in this case._Cf. Gustafson v. Florida,_ [414 U. S. 260](https://supreme.justia.com/cases/federal/us/414/260/case.html), [414 U. S. 266](https://supreme.justia.com/cases/federal/us/414/260/case.html#266) (concurring opinion) .
+The validity of the custodial arrest of Belton has not been questioned in this case. _Cf. Gustafson v. Florida,_ [414 U. S. 260](https://supreme.justia.com/cases/federal/us/414/260/case.html), [414 U. S. 266](https://supreme.justia.com/cases/federal/us/414/260/case.html#266) (concurring opinion) .
 
 \[[Footnote 3](https://supreme.justia.com/cases/federal/us/453/454/case.html#T3)]
 
