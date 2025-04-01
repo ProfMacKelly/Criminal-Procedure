@@ -24,10 +24,6 @@ When an arrest is made, it is reasonable for the arresting officer to search the
 
 There is no comparable justification, however, for routinely searching any room other than that in which an arrest occurs—or, for that matter, for searching through all the desk drawers or other closed or concealed areas in that room itself. Such searches, in the absence of well-recognized exceptions, may be made only under the authority of a search warrant. The “adherence to judicial processes” mandated by the Fourth Amendment requires no less.
 
-\*\*\*
-
-In the next case, the Court made clear that a search cannot be “incident to a lawful arrest” if no one is arrested. &#x20;
-
 <details>
 
 <summary>Attributions and Licensing</summary>
