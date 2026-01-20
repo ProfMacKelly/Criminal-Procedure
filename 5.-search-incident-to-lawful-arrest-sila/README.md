@@ -1,4 +1,8 @@
-# 5. Search Incident to Lawful Arrest (SILA)
+---
+hidden: true
+---
+
+# Search Incident to Lawful Arrest (SILA)
 
 **Note:** This is also commonly referred to as a "search incident to arrest" (SITA), however, this exception to the warrant requirement only applies if the arrest is lawful.
 
