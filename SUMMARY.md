@@ -94,4 +94,3 @@
   * [North Carolina v. Butler](miranda-issues/north-carolina-v.-butler.md)
   * [Colorado v. Spring](miranda-issues/colorado-v.-spring.md)
   * [Moran v. Burdine](miranda-issues/moran-v.-burdine.md)
-* [Page 1](page-1.md)
