@@ -6,6 +6,7 @@
   * [Introduction to the Fourth Amendment](1.-introduction/introduction-to-the-fourth-amendment.md)
   * [Foundations & Terminology](1.-introduction/foundations-and-terminology.md)
 * [2. Overview of Probable Cause and Reasonable Suspicion](2.-overview-of-probable-cause-and-reasonable-suspicion/README.md)
+  * [Introduction](2.-overview-of-probable-cause-and-reasonable-suspicion/introduction.md)
   * [The Principles of Probable Cause and Reasonable Suspicion](2.-overview-of-probable-cause-and-reasonable-suspicion/the-principles-of-probable-cause-and-reasonable-suspicion.md)
   * [Cases & Notes](2.-overview-of-probable-cause-and-reasonable-suspicion/cases-notes-and-questions/README.md)
     * [Illinois v. Gates](2.-overview-of-probable-cause-and-reasonable-suspicion/cases-notes-and-questions/ilinois-v.-gates.md)
