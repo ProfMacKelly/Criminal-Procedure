@@ -38,7 +38,7 @@ As a result of these events, the petitioner was subjected to two separate but re
 
 ### **II**
 
-\[T]he Court decided in [_Payton v. New York_](#user-content-fn-2)[^2] that warrantless felony arrests in the home are prohibited by the Fourth Amendment, absent probable cause and exigent circumstances. At the same time, the Court declined to consider the scope of any exception for exigent circumstances that might justify warrantless home arrests, thereby leaving to the lower courts the initial application of the exigent-circumstances exception. Prior decisions of this Court, however, have emphasized that exceptions to the warrant requirement are “few in number and carefully delineated” and that the police bear a heavy burden when attempting to demonstrate an urgent need that might justify warrantless searches or arrests. Indeed, the Court has recognized only a few such emergency conditions.
+\[T]he Court decided in [_Payton v. New York_](#user-content-fn-1)[^1] that warrantless felony arrests in the home are prohibited by the Fourth Amendment, absent probable cause and exigent circumstances. At the same time, the Court declined to consider the scope of any exception for exigent circumstances that might justify warrantless home arrests, thereby leaving to the lower courts the initial application of the exigent-circumstances exception. Prior decisions of this Court, however, have emphasized that exceptions to the warrant requirement are “few in number and carefully delineated” and that the police bear a heavy burden when attempting to demonstrate an urgent need that might justify warrantless searches or arrests. Indeed, the Court has recognized only a few such emergency conditions.
 
 Our hesitation in finding exigent circumstances, especially when warrantless arrests in the home are at issue, is particularly appropriate when the underlying offense for which there is probable cause to arrest is relatively minor. Before agents of the government may invade the sanctity of the home, the burden is on the government to demonstrate exigent circumstances that overcome the presumption of unreasonableness that attaches to all warrantless home entries. When the government’s interest is only to arrest for a minor offense, that presumption of unreasonableness is difficult to rebut, and the government usually should be allowed to make such arrests only with a warrant issued upon probable cause by a neutral and detached magistrate.
 
@@ -76,9 +76,6 @@ This page is adapted from [2.12: Chapter 13 - The Warrant Requirement - Exceptio
 
 </details>
 
-\
-
+<br>
 
 [^1]: [445 U.S. 573](https://www.courtlistener.com/opinion/110235/payton-v-new-york/) (1980)
-
-[^2]: [445 U.S. 573](https://www.courtlistener.com/opinion/110235/payton-v-new-york/) (1980)

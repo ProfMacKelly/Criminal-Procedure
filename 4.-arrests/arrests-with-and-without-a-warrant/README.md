@@ -115,7 +115,7 @@ In addition, officers who have probable cause to arrest a juvenile for the commi
 
 #### **“STALE” MISDEMEANORS**
 
-Even though a misdemeanor was committed in the officers’ presence, there is a long-standing rule that they may not arrest the suspect if they delayed doing so for an unreasonably long period of time.[47](broken-reference) This essentially means that officers must make the arrest before doing other things that did not appear to be urgent. As the court explained in Jackson v. Superior Court, “\[T]he officer must act promptly in making the arrest, and as soon as possible under the circumstances, and before he transacts other business.”48
+Even though a misdemeanor was committed in the officers’ presence, there is a long-standing rule that they may not arrest the suspect if they delayed doing so for an unreasonably long period of time.[47](/broken/pages/wCsfVQ0TSqI96OUQHJ7Q) This essentially means that officers must make the arrest before doing other things that did not appear to be urgent. As the court explained in Jackson v. Superior Court, “\[T]he officer must act promptly in making the arrest, and as soon as possible under the circumstances, and before he transacts other business.”48
 
 Note that because this rule is not based on the Fourth Amendment, a violation cannot result in the suppression of evidence. Still, a lengthy delay should be considered by officers in determining whether the suspect should be cited and released.
 
@@ -151,7 +151,7 @@ To make sure that an arrest warrant listed in a database had not been executed o
 
 #### **WARRANTS SENT BY EMAIL OR FAX**
 
-An arrest warrant or a warrant abstract sent from one agency to another via email or fax has the same legal force as the original warrant.[60](broken-reference)
+An arrest warrant or a warrant abstract sent from one agency to another via email or fax has the same legal force as the original warrant.[60](/broken/pages/wCsfVQ0TSqI96OUQHJ7Q)
 
 #### **TIME OF ARREST**
 

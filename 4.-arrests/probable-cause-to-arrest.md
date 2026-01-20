@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/judge-gavel-and-handcuffs-1461290713Mch.jpg
 coverY: -53
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Probable Cause to Arrest
@@ -297,7 +283,7 @@ When a suspect lies, evades a question, gives conflicting statements or tells an
 
 ### **MATERIAL LIES**
 
-The most incriminating lie is one that pertains to a material issue of guilt.142 Said the court in _People v. Williams_, “Deliberately false statements to the police about matters that are within a suspect’s knowledge and materially relate to his or her guilt or innocence have long been considered cogent evidence of consciousness of guilt, for they suggest there is no honest explanation for incriminating circumstances.”[143](broken-reference) In fact, when a suspect lies about a material matter, the jury at his trial may be instructed that such an act may properly be deemed a demonstration of guilt.144
+The most incriminating lie is one that pertains to a material issue of guilt.142 Said the court in _People v. Williams_, “Deliberately false statements to the police about matters that are within a suspect’s knowledge and materially relate to his or her guilt or innocence have long been considered cogent evidence of consciousness of guilt, for they suggest there is no honest explanation for incriminating circumstances.”[143](/broken/pages/gFpsR6paJVxkU8LWzoFl) In fact, when a suspect lies about a material matter, the jury at his trial may be instructed that such an act may properly be deemed a demonstration of guilt.144
 
 ### **LIES ABOUT PERIPHERAL ISSUES**
 

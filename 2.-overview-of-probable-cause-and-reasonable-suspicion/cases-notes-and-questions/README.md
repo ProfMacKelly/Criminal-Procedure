@@ -1,5 +1,27 @@
-# Cases, Notes & Questions
+# Cases & Notes
 
-1. [_Illinois v. Gates_](ilinois-v.-gates.md)
-2. [_Whren v. United States_](whren-v.-united-states.md)
-3. [_District of Columbia v. Wesby_](district-of-columbia-v.-wesby.md)
+{% stepper %}
+{% step %}
+{% content-ref url="ilinois-v.-gates.md" %}
+[ilinois-v.-gates.md](ilinois-v.-gates.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="whren-v.-united-states.md" %}
+[whren-v.-united-states.md](whren-v.-united-states.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="district-of-columbia-v.-wesby.md" %}
+[district-of-columbia-v.-wesby.md](district-of-columbia-v.-wesby.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="notes-on-racial-profiling.md" %}
+[notes-on-racial-profiling.md](notes-on-racial-profiling.md)
+{% endcontent-ref %}
+{% endstep %}
+{% endstepper %}

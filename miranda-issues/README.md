@@ -18,8 +18,7 @@
 * [_Colorado v. Spring_](colorado-v.-spring.md)
 *   [_Moran v. Burbine_](moran-v.-burdine.md)
 
-    \
-
+    <br>
 
 ### Miscellaneous Readings
 

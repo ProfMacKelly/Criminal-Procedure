@@ -32,8 +32,8 @@ While the Fourth Amendment may not apply to a “private search” by a private 
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions</summary>
 
-Unless otherwise indicated, this page's content is adapted from the following public domain source: [Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This page is in the public domain.
+Unless otherwise indicated, this page's content is adapted from the following public domain source: [_Legal Training Handbook_](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This page is in the public domain.
 
 </details>
