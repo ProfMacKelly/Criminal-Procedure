@@ -10,8 +10,8 @@ Put simply, legal reasoning skills are inherently part of criminal justice, publ
 [primers-on-legal-thinking-reasoning-and-analysis.md](primers-on-legal-thinking-reasoning-and-analysis.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction-to-reading-and-briefing-cases.md" %}
-[introduction-to-reading-and-briefing-cases.md](introduction-to-reading-and-briefing-cases.md)
+{% content-ref url="introduction-to-reading-and-briefing-cases/" %}
+[introduction-to-reading-and-briefing-cases](introduction-to-reading-and-briefing-cases/)
 {% endcontent-ref %}
 
 {% content-ref url="exercise-brief-the-case.md" %}
