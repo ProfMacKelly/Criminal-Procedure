@@ -1,26 +1,17 @@
-# 2. Overview of Probable Cause and Reasonable Suspicion
+# Overview of Probable Cause and Reasonable Suspicion
 
 ## Contents
 
 {% stepper %}
 {% step %}
-{% content-ref url="introduction.md" %}
-[introduction.md](introduction.md)
-{% endcontent-ref %}
+### [Introduction](introduction.md)
 {% endstep %}
 
 {% step %}
-{% content-ref url="the-principles-of-probable-cause-and-reasonable-suspicion.md" %}
-[the-principles-of-probable-cause-and-reasonable-suspicion.md](the-principles-of-probable-cause-and-reasonable-suspicion.md)
-{% endcontent-ref %}
+### [The Principles of Probable Cause and Reasonable Suspicion](the-principles-of-probable-cause-and-reasonable-suspicion.md)
 {% endstep %}
 
 {% step %}
-{% content-ref url="cases-notes-and-questions/" %}
-[cases-notes-and-questions](cases-notes-and-questions/)
-{% endcontent-ref %}
+### [Cases & Notes](cases-notes-and-questions/)
 {% endstep %}
 {% endstepper %}
-
-
-

@@ -1,23 +1,17 @@
-# 1. Introduction
+# Introduction
 
 ## Contents
 
 {% stepper %}
 {% step %}
-{% content-ref url="1.-introduction/key-constitutional-text.md" %}
-[key-constitutional-text.md](1.-introduction/key-constitutional-text.md)
-{% endcontent-ref %}
+### [Key Constitutional Text](1.-introduction/key-constitutional-text.md)
 {% endstep %}
 
 {% step %}
-{% content-ref url="1.-introduction/introduction-to-the-fourth-amendment.md" %}
-[introduction-to-the-fourth-amendment.md](1.-introduction/introduction-to-the-fourth-amendment.md)
-{% endcontent-ref %}
+### [Introduction to the Fourth Amendment](1.-introduction/introduction-to-the-fourth-amendment.md)
 {% endstep %}
 
 {% step %}
-{% content-ref url="1.-introduction/foundations-and-terminology.md" %}
-[foundations-and-terminology.md](1.-introduction/foundations-and-terminology.md)
-{% endcontent-ref %}
+### [Foundations & Terminology](1.-introduction/foundations-and-terminology.md)
 {% endstep %}
 {% endstepper %}
