@@ -79,7 +79,7 @@ Is the officer correct that the order to produce identification or provide their
     * [In Ohio](#user-content-fn-1)[^1], it is a misdemeanor in Ohio to refuse to disclose one's name, address, or date of birth under certain circumstances when reasonable suspicion exists.&#x20;
     * [In Wisconsin](#user-content-fn-2)[^2], although law enforcement may "demand the name and address of the person and an explanation of the person's conduct" when reasonable suspicion exists, a simple refusal to comply with the demand is not a crime. Wisconsin has no equivalent to Ohio's "[failure to disclose](https://codes.ohio.gov/ohio-revised-code/section-2921.29)" statute. Moreover, the Wisconsin Supreme Court held that a simple refusal to comply with the demand does not constitute the crime of resisting or obstructing an officer.\*[^3]
 
-
+***
 
 <details>
 
