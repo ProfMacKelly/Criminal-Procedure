@@ -18,6 +18,10 @@ Although this book openly licensed and free to be reused, redistributed, [adapte
 {% endstep %}
 
 {% step %}
+### [Preparing to Understand Legal Thinking and Studying Case Law](preparing-to-understand-legal-thinking-and-studying-case-law/)
+{% endstep %}
+
+{% step %}
 ### [Introduction](<README (1).md>)
 {% endstep %}
 

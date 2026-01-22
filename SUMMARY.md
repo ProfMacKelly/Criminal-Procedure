@@ -2,6 +2,10 @@
 
 * [Criminal Procedure: A Sourcebook](README.md)
 * [Front Matter](front-matter.md)
+* [Preparing to Understand Legal Thinking and Studying Case Law](preparing-to-understand-legal-thinking-and-studying-case-law/README.md)
+  * [Primers on Legal Thinking, Reasoning & Analysis](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis.md)
+  * [Introduction to Reading & Briefing Cases](preparing-to-understand-legal-thinking-and-studying-case-law/introduction-to-reading-and-briefing-cases.md)
+  * [Exercise: Brief the Case](preparing-to-understand-legal-thinking-and-studying-case-law/exercise-brief-the-case.md)
 * [Introduction](<README (1).md>)
   * [Key Constitutional Text](1.-introduction/key-constitutional-text.md)
   * [Introduction to the Fourth Amendment](1.-introduction/introduction-to-the-fourth-amendment.md)
