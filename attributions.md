@@ -6,11 +6,11 @@ hidden: true
 
 #### General Attributions & Licensing
 
-{% include ".gitbook/includes/untitled (1) (1).md" %}
+{% include ".gitbook/includes/untitled (1).md" %}
 
 #### Case Attributions
 
-{% include ".gitbook/includes/untitled.md" %}
+{% include ".gitbook/includes/case-attributions.md" %}
 
 #### Cases (My Edits) & Public Domain
 
