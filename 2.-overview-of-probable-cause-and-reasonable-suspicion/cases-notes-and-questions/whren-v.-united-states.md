@@ -6,13 +6,13 @@ Supreme Court of the United States
 
 **Michael A. Whren**\
 **v.**\
-**United States** 
+**United States**
 
 Justice SCALIA delivered the opinion of the \[unanimous] Court.
 
 In this case we decide whether the temporary detention of a motorist who the police have probable cause to believe has committed a civil traffic violation is inconsistent with the Fourth Amendment’s prohibition against unreasonable seizures unless a reasonable officer would have been motivated to stop the car by a desire to enforce the traffic laws.
 
-## **I** 
+## **I**
 
 On the evening of June 10, 1993, plainclothes vice-squad officers of the District of Columbia Metropolitan Police Department were patrolling a “high drug area” of the city in an unmarked car. Their suspicions were aroused when they passed a dark Pathfinder truck with temporary license plates and youthful occupants waiting at a stop sign, the driver looking down into the lap of the passenger at his right. The truck remained stopped at the intersection for what seemed an unusually long time—more than 20 seconds. When the police car executed a U-turn in order to head back toward the truck, the Pathfinder turned suddenly to its right, without signaling, and sped off at an “unreasonable” speed. The policemen followed, and in a short while overtook the Pathfinder when it stopped behind other traffic at a red light. They pulled up alongside, and Officer Ephraim Soto stepped out and approached the driver’s door, identifying himself as a police officer and directing the driver, petitioner Brown, to put the vehicle in park. When Soto drew up to the driver’s window, he immediately observed two large plastic bags of what appeared to be crack cocaine in petitioner Whren’s hands. Petitioners were arrested, and quantities of several types of illegal drugs were retrieved from the vehicle.
 
@@ -58,7 +58,7 @@ Here the District Court found that the officers had probable cause to believe th
 
 _Affirmed._
 
-## **Notes, Comments, and Questions** 
+## **Notes, Comments, and Questions**
 
 The unanimous decision by the Court illustrates how important it is to the Justices to avoid creating legal rules and tests that require judges to guess what officers were thinking when performing certain actions. If the admissibility of evidence depends upon the mental state of a police officer during a stressful moment months or even years before a resulting evidentiary hearing, multiple problems are created. First, as a practical matter, determining what the officer was thinking when (for example) stopping a car will not be easy. Second, the officer may be tempted to commit perjury if her mental state was not the “correct” one under the relevant test.
 
@@ -74,6 +74,6 @@ The Court’s holding in _Whren_ illustrates the power of probable cause. Becaus
 
 <summary>Attributions and Licensing</summary>
 
-This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/image.png" alt="" data-size="line">
 
 </details>

@@ -6,7 +6,7 @@ Supreme Court of the United States
 
 **District of Columbia**\
 **v.**\
-**Theodore Wesby** 
+**Theodore Wesby**
 
 ## \[Majority]
 
@@ -14,7 +14,7 @@ Justice THOMAS delivered the opinion of the Court.
 
 This case involves a civil suit against the District of Columbia and five of its police officers, brought by 16 individuals who were arrested for holding a raucous, late-night party in a house they did not have permission to enter. The United States Court of Appeals for the District of Columbia Circuit held that there was no probable cause to arrest the partygoers, and that the officers were not entitled to qualified immunity. We reverse on both grounds.
 
-## **I** 
+## **I**
 
 Around 1 a.m. on March 16, 2008, the District’s Metropolitan Police Department received a complaint about loud music and illegal activities at a house in Northeast D.C. The caller, a former neighborhood commissioner, told police that the house had been vacant for several months. When officers arrived at the scene, several neighbors confirmed that the house should have been empty. The officers approached the house and, consistent with the complaint, heard loud music playing inside.
 
@@ -64,7 +64,7 @@ The panel majority relied heavily on the fact that Peaches said she had invited 
 
 Viewing these circumstances as a whole, a reasonable officer could conclude that there was probable cause to believe the partygoers knew they did not have permission to be in the house.
 
-### **B** 
+### **B**
 
 In concluding otherwise, the panel majority engaged in an “excessively technical dissection” of the factors supporting probable cause. Indeed, the panel majority failed to follow two basic and well-established principles of law.
 
@@ -96,8 +96,8 @@ As the semester progresses, students should make a point of noting (1) which pol
 
 <details>
 
-<summary>Attributions</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
-This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/image.png" alt="" data-size="line">
 
 </details>

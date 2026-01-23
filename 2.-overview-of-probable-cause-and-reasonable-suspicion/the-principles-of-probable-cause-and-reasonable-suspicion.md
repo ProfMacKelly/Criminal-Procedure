@@ -198,7 +198,7 @@ The courts are not, however, so forgiving with mistakes of law. This is because 
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 

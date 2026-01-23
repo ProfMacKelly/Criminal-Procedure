@@ -6,7 +6,15 @@ Watch this video and pay close attention to the officer's narrator's key point:
 
 > When I'm on duty as a law enforcement officer, I view every person I come into contact with as though they were wrapped in the Constitution. And the only way that I–as a law enforcement officer–can get to that citizen is by lawfully unwrapping it.
 
+***
+
+{% include "../.gitbook/includes/watch-and-learn.md" %}
+
 {% embed url="https://youtu.be/Uak1T1gYH-A" %}
+<p align="center"><a href="https://youtu.be/Uak1T1gYH-A"><em>A Fourth Amendment Tip for Law Enforcement Officers</em></a> by <a href="https://www.youtube.com/channel/UCY3g-b4_LQuftNZMxi2m4VA">Premier Police Training</a>. <br>(Learn how to access the <a href="https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/">transcript</a>.)</p>
+{% endembed %}
+
+***
 
 ## **The Fourth Amendment**&#x20;
 
@@ -28,11 +36,13 @@ While the Fourth Amendment may not apply to a “private search” by a private 
 2. Whether the private party intends to assist law enforcement officers at the time of the search; and
 3. Whether the government affirmatively encourages, initiates, or instigates the private action. &#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Listen/Read:</strong> </p><p></p><p><a href="https://www.fletc.gov/audio/definition-government-agent-under-4th-amendment-mp3">Definition of a Government Agent Under the 4th Amendment</a> </p></td><td></td><td></td></tr></tbody></table>
+{% include "../.gitbook/includes/listen-read.md" %}
+
+{% embed url="https://www.fletc.gov/audio/definition-government-agent-under-4th-amendment-mp3" %}
 
 <details>
 
-<summary>Attributions</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following public domain source: [_Legal Training Handbook_](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This page is in the public domain.
 
