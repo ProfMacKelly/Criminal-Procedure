@@ -1,5 +1,11 @@
 # Example 2: Mills v. City of Overland Park
 
-### Contents
 
-[<br>](https://open-2c.gitbook.com/url/preview/site_qjnK6/~/revisions/crCnw7Et1wdLlVRcS3aZ/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/1.2-introduction-to-reading-and-briefing-cases/1.2.3-annotated-cases-and-annotated-examples-of-case-briefs/example-2-mills-v.-city-of-overland-park/annotated-case-mills-v.-city-of-overland-park)
+
+<details>
+
+<summary><mark style="color:red;"><strong>License</strong></mark></summary>
+
+This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">&#x20;
+
+</details>
