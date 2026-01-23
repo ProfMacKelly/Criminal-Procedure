@@ -78,8 +78,6 @@ Because the relevant policy (e.g., guideline/SOP) did not use language that remo
 
 ***
 
-{% include "../../../../.gitbook/includes/all-mine.md" %}
-
 [^1]: i.e., the defendant failed to uphold their duty of care
 
 [^2]: Inactions are also called "omissions."

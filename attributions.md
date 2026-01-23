@@ -20,8 +20,6 @@ hidden: true
 
 #### Mine
 
-{% include ".gitbook/includes/all-mine.md" %}
-
 
 
 ***
