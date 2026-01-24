@@ -33,11 +33,13 @@ Any evidence the officer obtained as a result of the unlawful arrest (for exampl
 
 ***
 
-## [Footnotes](../footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="../footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](../footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 

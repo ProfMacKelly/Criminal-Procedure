@@ -119,7 +119,9 @@ Separating detainees is also permitted for officer safety purposes. Thus, in _Pe
 
 ***
 
-## [Footnotes](../../../footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="../../../footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](../../../footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 

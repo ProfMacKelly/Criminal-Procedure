@@ -121,9 +121,13 @@ Police members may initiate the stop of a suspect if he/she has individualized, 
 
 ***
 
+{% content-ref url="footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
+
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 

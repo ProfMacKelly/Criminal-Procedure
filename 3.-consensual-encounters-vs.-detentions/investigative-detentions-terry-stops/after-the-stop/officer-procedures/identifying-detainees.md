@@ -28,11 +28,11 @@ If the detainee is an occupant of a vehicle and he says he has no driver’s lic
 
 Officers may request—but not demand—that the detainee’s companions identify themselves, and they may attempt to confirm the IDs if it does not unduly prolong the stop. As the First Circuit advised, “\[B]ecause passengers present a risk to officer safety equal to the risk presented by the driver, an officer may ask for identification from passengers and run background checks on them as well.” 118
 
-
-
 ***
 
-## [Footnotes](../../footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="../../footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](../../footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 

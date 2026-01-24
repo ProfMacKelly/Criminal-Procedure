@@ -20,7 +20,9 @@ Note that in most cases in which force is reasonably necessary, the officers wil
 
 ***
 
-## [Footnotes](../../footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="../../footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](../../footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 
