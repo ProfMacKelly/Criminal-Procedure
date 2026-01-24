@@ -28,8 +28,8 @@ Having discussed the basic principles that the courts apply in determining wheth
 [transporting-detainees.md](transporting-detainees.md)
 {% endcontent-ref %}
 
-{% content-ref url="safety-and-frisks/terry-frisks.md" %}
-[terry-frisks.md](safety-and-frisks/terry-frisks.md)
+{% content-ref url="safety-precautions/terry-frisks.md" %}
+[terry-frisks.md](safety-precautions/terry-frisks.md)
 {% endcontent-ref %}
 
 {% content-ref url="other-procedures.md" %}

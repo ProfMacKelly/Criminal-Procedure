@@ -2,11 +2,11 @@
 
 ## Contents
 
-{% content-ref url="safety-precautions.md" %}
-[safety-precautions.md](safety-precautions.md)
+{% content-ref url="../safety-precautions/" %}
+[safety-precautions](../safety-precautions/)
 {% endcontent-ref %}
 
-{% content-ref url="terry-frisks.md" %}
-[terry-frisks.md](terry-frisks.md)
+{% content-ref url="../safety-precautions/terry-frisks.md" %}
+[terry-frisks.md](../safety-precautions/terry-frisks.md)
 {% endcontent-ref %}
 
