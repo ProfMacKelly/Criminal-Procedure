@@ -8,6 +8,8 @@ Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezpr
 
 * Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_35)." \*[^1]
 
+***
+
 {% include "../.gitbook/includes/watch-and-learn.md" %}
 
 {% embed url="https://youtu.be/5rT7G_11lSs" %}
@@ -15,11 +17,15 @@ Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezpr
 (See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)&#x20;
 {% endembed %}
 
+***
+
 ## Introduction to Probable Cause
 
 ### **Probable Cause (PC)**&#x20;
 
 The Fourth Amendment provides that “no Warrant shall issue but upon probable cause … .” In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
+
+***
 
 {% include "../.gitbook/includes/watch-and-learn.md" %}
 
@@ -28,17 +34,23 @@ The Fourth Amendment provides that “no Warrant shall issue but upon probable c
 (See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)
 {% endembed %}
 
+***
+
 ### Defining Probable Cause
 
 It is impossible to articulate the precise meaning of “probable cause.” Probable cause is a fluid concept—turning on the assessment of probabilities in particular factual contexts—“not readily, or even usefully, reduced to a neat set of legal rules.” Nonetheless, the courts have established some basic definitions for probable cause to “arrest” or “search.” Probable cause to “search” exists where the known facts and circumstances are sufficient to warrant a man of reasonable prudence in the belief that contraband or evidence of a crime will be found in the place to be searched. Probable cause to “arrest” exists when the known facts and circumstances are sufficient to warrant a prudent person in believing that the suspect had committed or was committing an offense. The term “reasonable belief” is often used to help define probable cause.
 
-### The Test for Probable Cause
-
-Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
+***
 
 {% include "../.gitbook/includes/listen-read.md" %}
 
 {% embed url="https://www.fletc.gov/audio/probable-cause-i-mp3" %}
+
+***
+
+### The Test for Probable Cause
+
+Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
 
 ## Introduction to Reasonable Suspicion
 
