@@ -1,4 +1,4 @@
-# Criminal Procedure: A Sourcebook
+# Criminal Procedure Sourcebook
 
 :construction\_site: This book is under construction. :construction:
 
@@ -16,19 +16,27 @@ Although this book openly licensed and free to be reused, redistributed, [adapte
 
 {% stepper %}
 {% step %}
-### [Front Matter](front-matter.md)
+{% content-ref url="front-matter.md" %}
+[front-matter.md](front-matter.md)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [Preparing to Understand Legal Thinking and Studying Case Law](preparing-to-understand-legal-thinking-and-studying-case-law/)
+{% content-ref url="preparing-to-understand-legal-thinking-and-studying-case-law/" %}
+[preparing-to-understand-legal-thinking-and-studying-case-law](preparing-to-understand-legal-thinking-and-studying-case-law/)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [Introduction](<README (1).md>)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [Overview of Probable Cause and Reasonable Suspicion](2.-overview-of-probable-cause-and-reasonable-suspicion/)
+{% content-ref url="2.-overview-of-probable-cause-and-reasonable-suspicion/" %}
+[2.-overview-of-probable-cause-and-reasonable-suspicion](2.-overview-of-probable-cause-and-reasonable-suspicion/)
+{% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
 
