@@ -4,7 +4,7 @@
 
 ### What Is This Book?
 
-_Criminal Procedure: A Sourcebook_ is an interactive [open educational resource](#user-content-fn-1)[^1] (OER). Open textbooks are complete textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. As an open resource, this may be used and reused freely with no direct cost to the user.
+_Criminal Procedure Sourcebook_ is an interactive [open educational resource](#user-content-fn-1)[^1] (OER). Open textbooks are complete textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. As an open resource, this may be used and reused freely with no direct cost to the user.
 
 Except where otherwise noted, the content in this book is licensed with a [Creative Commons Attribution 4.0 license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which allows it to be adapted, remixed, and shared under the same license with attribution. Instructors and students may be interested in rearranging and otherwise adapting or transforming the content into other formats. If so, please include the appropriate attribution under the Creative Commons license. More information about this license is available [here](https://creativecommons.org/licenses/by/4.0/).
 
@@ -12,7 +12,7 @@ Although it is openly licensed free to be reused and redistributed, readers shou
 
 ### Authorship, Adaptations, and Licensing Information
 
-_Criminal Procedure: A Sourcebook_ includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices.
+_Criminal Procedure Sourcebook_ includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices.
 
 {% hint style="success" %}
 :clap:Special thanks to:

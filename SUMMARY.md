@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Criminal Procedure: A Sourcebook](README.md)
+* [Criminal Procedure Sourcebook](README.md)
 * [Front Matter](front-matter.md)
 * [Preparing to Understand Legal Thinking and Studying Case Law](preparing-to-understand-legal-thinking-and-studying-case-law/README.md)
   * [Primers on Legal Thinking, Reasoning & Analysis](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis.md)
