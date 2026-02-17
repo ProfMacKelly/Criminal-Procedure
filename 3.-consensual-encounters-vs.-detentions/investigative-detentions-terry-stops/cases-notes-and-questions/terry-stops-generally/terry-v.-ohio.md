@@ -1,10 +1,14 @@
 # Terry v. Ohio
 
+## Preliminary Notes
+
 _Terry v. Ohio_, which sets forth the doctrine permitting “stop and frisk” in some circumstances and which has given its name to the practice.
 
 Before diving into the court's decision, here is a video preview:
 
 {% embed url="https://youtu.be/AVDy0EZFv3s" %}
+
+## The _Terry_ Case
 
 ***
 
@@ -15,7 +19,6 @@ Supreme Court of the United States
 **Terry**\
 **v.** \
 **Ohio**
---------
 
 Mr. Chief Justice WARREN delivered the opinion of the Court.
 
